@@ -1,0 +1,26 @@
+c:\users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.exe.config
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1._1.Properties.Resources.resources
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1._1.View.MainForm.resources
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.csproj.GenerateResource.Cache
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.exe
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.pdb
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.exe
+C:\Users\dd\documents\visual studio 2013\Projects\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.pdb
+D:\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.exe.config
+D:\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.exe
+D:\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.pdb
+D:\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.exe
+D:\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.pdb
+D:\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1._1.Properties.Resources.resources
+D:\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1._1.View.MainForm.resources
+D:\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.csproj.GenerateResource.Cache
+D:\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.exe.config
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.exe
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.pdb
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.exe
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\bin\Debug\minichki_v1.1.pdb
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1._1.Properties.Resources.resources
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1._1.View.MainForm.resources
+C:\Users\Vasil\Desktop\minichki_v1.1\minichki_v1.1\minichki_v1.1\obj\Debug\minichki_v1.1.csproj.GenerateResource.Cache
